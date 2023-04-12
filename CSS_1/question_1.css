@@ -1,0 +1,19 @@
+#pregunta_1{ 
+    display: block;
+}
+#pantalla_start{ 
+    display: none;
+}
+#pantalla_final{
+    display: none;
+}
+
+#seccion_correcta { 
+    display:none;
+}
+#pantalla_start { 
+    display: none;
+}
+#pantalla_final{ 
+    display: none;
+}
